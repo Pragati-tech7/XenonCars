@@ -33,8 +33,8 @@ The website contains 5 web pages . The first webpage containes login/register bu
 The website is working absolutely fine in the localhost but somehow it is giving error in the deployment and at this moment i didnot have that much time to solve the errors so i cannot be able to host the website but i attached the pictures of all the webpages. 
 
 Screenshots
-![](images/a.png)
-![](images/b.png)
+![_](images/a.png)
+![_](images/b.png)
 ![](images/c.png)
 ![](images/d.png)
 ![](images/e.png)
